@@ -1,5 +1,5 @@
 
-setwd("~/R")
+setwd("~/Documents/R/cluster_analysis")
 
 data<- read.csv("Porto_taxi_data_test_partial_trajectories.csv")
 
